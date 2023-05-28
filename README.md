@@ -1,7 +1,7 @@
 ### [Raduan A](https://raduan.xyz)
 hi there.
 
-i am a an engineer and entrepreneur, currently working on [summate.io](https://summate.io) and at [databricks](https://databricks.com).
+i am an engineer and entrepreneur, currently working on [summate.io](https://summate.io) and at [databricks](https://databricks.com).
 
 if you want to know more:
 - [twitter](https://twitter.com/0xRaduan)
